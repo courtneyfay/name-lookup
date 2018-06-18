@@ -11,8 +11,12 @@
 
 ## To Do
 ***
+[X]Download and setup VS code with extensions and command line $PATH [instructions](https://code.visualstudio.com/docs/setup/mac)
+
+[X]Download and set up GitKraken
+
 [ ] Watch all the GraphQL intro videos
-[ ][Graph Databases Will Change Your Freakin' Life](https://www.youtube.com/watch?v=GekQqFZm7mA)
+[X][Graph Databases Will Change Your Freakin' Life](https://www.youtube.com/watch?v=GekQqFZm7mA)
 [ ][Zero to GraphQL in 30 minutes](https://www.youtube.com/watch?v=H8YnVk2vhzg)
 [ ][What is Apollo?](https://www.youtube.com/watch?v=mSzUb7f47qk)
 [ ][GraphQL Basics -- Fun Fun Function](https://www.youtube.com/watch?v=lAJWHHUz8_8)
